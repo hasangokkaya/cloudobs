@@ -1,0 +1,23 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+#uyes {
+    padding-top:10px;
+    height:250px;
+}
+
+.buton{
+	float:right;
+    background:#d21b00;
+    background: linear-gradient(top, #d21b00, #8e0700);
+    padding:5px 5px;
+    text-decoration:none;
+    color:#fff;
+    font:bold 20px Arial, Helvetica, sans-serif;
+    border-radius: 7px;
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.75);
+    border:5px solid #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.75);
+}
